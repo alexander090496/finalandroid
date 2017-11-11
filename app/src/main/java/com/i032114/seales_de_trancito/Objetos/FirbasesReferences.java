@@ -5,4 +5,6 @@ package com.i032114.seales_de_trancito.Objetos;
  */
 
 public class FirbasesReferences {
+    final  public static String USUARI_REFER="user";
+
 }
